@@ -9,3 +9,4 @@ const getHomePage = async(quotesCollection, res) => {
 }
 
 module.exports = getHomePage;
+export {};

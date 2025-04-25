@@ -1,4 +1,4 @@
-import noMoreVaderQuotes from "./noMoreVaderQuotes.js";
+import noMoreVaderQuotes from "./noMoreVaderQuotes.ts";
 
 const deleteFirstVaderQuote = async() => {
     const endpoint = '/quotes';
